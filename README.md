@@ -9,3 +9,6 @@ https://github.com/ErabellySreeja2005/23CSBTB27-28/blob/main/GAME_STRATEGY.ipynb
 
 
 https://github.com/ErabellySreeja2005/23CSBTB27-28/blob/main/Untitled3.ipynb
+
+
+https://github.com/ErabellySreeja2005/23CSBTB27-28/blob/main/titanic_regression.ipynb
