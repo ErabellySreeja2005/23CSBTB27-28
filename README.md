@@ -12,3 +12,6 @@ https://github.com/ErabellySreeja2005/23CSBTB27-28/blob/main/Untitled3.ipynb
 
 
 https://github.com/ErabellySreeja2005/23CSBTB27-28/blob/main/titanic_regression.ipynb
+
+
+https://github.com/ErabellySreeja2005/23CSBTB27-28/blob/main/knn_in_python.ipynb
