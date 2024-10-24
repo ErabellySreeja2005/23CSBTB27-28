@@ -17,3 +17,5 @@ https://github.com/ErabellySreeja2005/23CSBTB27-28/blob/main/titanic_regression.
 https://github.com/ErabellySreeja2005/23CSBTB27-28/blob/main/knn_in_python.ipynb
 
 https://github.com/ErabellySreeja2005/23CSBTB27-28/blob/main/Mean_squared_error%2CRsquared_error.ipynb
+
+https://github.com/ErabellySreeja2005/23CSBTB27-28/blob/main/Untitled0.ipynb
